@@ -142,35 +142,4 @@ a.source:visited {
   background-position: -72px 0 !important;
 }
 
-/* Storymap logo image above the title */
-#logo {
-  height: 30px;
-  line-height: 30px;
-  text-align: center;
-  padding: 10px;
-  max-width: 100%;
-}
 
-#logo img {
-  max-height: 100%;
-  max-width: 100%;
-  vertical-align: middle;
-}
-
-#header {
-  padding: 5px 0;
-  text-align: center;
-  color: #333;
-}
-
-/* Storymap title & subtitle */
-h1 {
-  margin: 0;
-  font-size: 1.5em;
-}
-
-h2 {
-  margin: 0;
-  font-size: 1.1em;
-  font-weight: normal;
-}
